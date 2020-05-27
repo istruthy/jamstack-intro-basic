@@ -100,3 +100,4 @@ Before serverless functions, getting
 ## Thanks
 
 Huge thanks to [David Khourshid](https://twitter.com/DavidKPiano) and [Ryan Florence](https://twitter.com/ryanflorence) for reviewing code and providing [better patterns for using React Hooks](https://twitter.com/jlengstorf/status/1185705298868129793). Thanks to [Sarah Drasner](https://twitter.com/sarah_edo) for sharing notes and examples from [her JAMstack workshop](https://github.com/sdras/JAMstack-Workshop).
+# jamstacks
